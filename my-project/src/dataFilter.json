@@ -1,0 +1,74 @@
+[
+  {
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "image": "https://images.indianexpress.com/2022/10/book-cover.jpg",
+    "pages": 256,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952
+  },
+  {
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "image": "https://images3.penguinrandomhouse.com/cover/9780141001821",
+    "pages": 1024,
+    "title": "The Decameron",
+    "year": 1351
+  },
+  {
+    "author": "Louis-Ferdinand C\u00e9line",
+    "country": "France",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw95G9PKNCETapNcCaufgOHC1AkdHkK1xBtha8AsQ7-DPS4T0QNC1yIg1muFpkkb2U98&usqp=CAU",
+    "pages": 505,
+    "title": "Journey to the End of the Night",
+    "year": 1932
+  },
+  {
+    "author": "Denis Diderot",
+    "country": "France",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_U-Gc0QcOobPLVn_eDSZNouVagmrSzHI059WSQ2bGBOBln1HSITYn3DVWtH2gwUaFAQk&usqp=CAU",
+    "pages": 596,
+    "title": "The Canterbury Tales",
+    "year": 1796
+  },
+  {
+    "author": "Alfred D\u00f6blin",
+    "country": "Germany",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7WokhMzFeMRMH6xZ2TdEghXzd4-8V0oJMP-T2PTXkKRBldhG4lbNl1mRzZdoNDjde6s&usqp=CAU",
+    "pages": 600,
+    "title": "Berlin Alexanderplatz",
+    "year": 1929
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2w09DQEwAPvfaxJc79WgyUzSzP-wcsK6B5FWFDp5tuQKYWBCfJnQ72pciO_963Uy34A&usqp=CAU",
+    "pages": 551,
+    "title": "Crime and Punishment",
+    "year": 1866
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1c5JS_hhGQmunyGu04YL1VISHS_dXe9DXUw&usqp=CAU",
+    "pages": 656,
+    "title": "The Idiot",
+    "year": 1869
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "image": "https://res.cloudinary.com/hzpwrwfdi/image/upload/w_220/media/covers/A1A4Zsw7eL_ihnxkd",
+    "pages": 768,
+    "title": "The Possessed",
+    "year": 1872
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_tqZCStUP3FVgvYlbkftCZjovZzOmLnf0SIhSA_fF__l_yyxe-8_B5RMf1d9235JCFo&usqp=CAU",
+    "pages": 824,
+    "title": "The Brothers Karamazov",
+    "year": 1880
+  }
+]
